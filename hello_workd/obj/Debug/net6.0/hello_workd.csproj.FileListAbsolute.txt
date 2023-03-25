@@ -1,0 +1,15 @@
+C:\Users\Нэля\Desktop\dotnet\hello_workd\bin\Debug\net6.0\hello_workd.exe
+C:\Users\Нэля\Desktop\dotnet\hello_workd\bin\Debug\net6.0\hello_workd.deps.json
+C:\Users\Нэля\Desktop\dotnet\hello_workd\bin\Debug\net6.0\hello_workd.runtimeconfig.json
+C:\Users\Нэля\Desktop\dotnet\hello_workd\bin\Debug\net6.0\hello_workd.dll
+C:\Users\Нэля\Desktop\dotnet\hello_workd\bin\Debug\net6.0\hello_workd.pdb
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.csproj.AssemblyReference.cache
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.AssemblyInfoInputs.cache
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.AssemblyInfo.cs
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.csproj.CoreCompileInputs.cache
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.dll
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\refint\hello_workd.dll
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.pdb
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\hello_workd.genruntimeconfig.cache
+C:\Users\Нэля\Desktop\dotnet\hello_workd\obj\Debug\net6.0\ref\hello_workd.dll
